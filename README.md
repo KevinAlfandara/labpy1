@@ -25,7 +25,11 @@ Pernyataan else biasanya digabungkan dengan pernyataan if diatas. Pernyataan els
 Masukkan perintah repository labpy1 pada MINGW atau Git Bash seperti contoh di bawah ini. 
 ![3](https://user-images.githubusercontent.com/46530309/52686880-2dabd280-2f82-11e9-871a-5f7d7e1dee71.png)
 # Langkah ke lima
+Hasil dari langkah ke empat
 # ![6](https://user-images.githubusercontent.com/46530309/52687207-73b56600-2f83-11e9-9ded-20a0aadb7d8d.png)
 # Langkah ke enam
+Ini hasil git bash lalu di refres hasilnya akan seperti berikut ini 
+# ![7](https://user-images.githubusercontent.com/46530309/52687350-14a42100-2f84-11e9-805a-7b59abca6dc9.png)
+
 
 
