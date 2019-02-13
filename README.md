@@ -22,7 +22,7 @@ Pernyataan elif memperbolehkan kita untuk menguji beberapa kondisi bersyarat unt
 # Else
 Pernyataan else biasanya digabungkan dengan pernyataan if diatas. Pernyataan else dapat berisi satu atau beberapa blok pernyataan (kode) yang mana akan dijalankan jika kondisi tersebut salah (atau tidak sesuai dengan syarat yang berlaku). 
 # Langkah Keempat
-Ini hasil repository yang belum jadi
+Masukkan perintah repository labpy1 pada MINGW atau Git Bash seperti contoh di bawah ini. 
 ![3](https://user-images.githubusercontent.com/46530309/52686880-2dabd280-2f82-11e9-871a-5f7d7e1dee71.png)
 # Langkah ke lima
 # ![6](https://user-images.githubusercontent.com/46530309/52687207-73b56600-2f83-11e9-9ded-20a0aadb7d8d.png)
