@@ -25,3 +25,7 @@ Pernyataan else biasanya digabungkan dengan pernyataan if diatas. Pernyataan els
 Ini hasil repository yang belum jadi
 ![3](https://user-images.githubusercontent.com/46530309/52686880-2dabd280-2f82-11e9-871a-5f7d7e1dee71.png)
 # Langkah ke lima
+# ![6](https://user-images.githubusercontent.com/46530309/52687207-73b56600-2f83-11e9-9ded-20a0aadb7d8d.png)
+# Langkah ke enam
+
+
